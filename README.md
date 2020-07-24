@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Chang'blog
 
 You can use the [editor on GitHub](https://github.com/cute-walk/cute-walk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
